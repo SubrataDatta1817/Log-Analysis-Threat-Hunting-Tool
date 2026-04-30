@@ -1,0 +1,10 @@
+Apr  9 00:10:11 ubuntu sshd[1111]: Failed password for root from 185.220.101.10 port 50922 ssh2
+Apr  9 00:10:14 ubuntu sshd[1112]: Failed password for root from 185.220.101.10 port 50924 ssh2
+Apr  9 00:10:19 ubuntu sshd[1113]: Failed password for root from 185.220.101.10 port 50928 ssh2
+Apr  9 00:10:25 ubuntu sshd[1114]: Failed password for root from 185.220.101.10 port 50931 ssh2
+Apr  9 00:10:30 ubuntu sshd[1115]: Failed password for root from 185.220.101.10 port 50940 ssh2
+Apr  9 00:11:00 ubuntu sshd[1120]: Accepted password for admin from 203.0.113.15 port 51111 ssh2
+Apr  9 09:15:45 ubuntu sshd[1301]: Accepted password for analyst from 192.168.1.25 port 52222 ssh2
+Apr  9 09:16:10 ubuntu sshd[1302]: Failed password for invalid user oracle from 45.155.205.233 port 60001 ssh2
+Apr  9 09:16:18 ubuntu sshd[1303]: Failed password for invalid user oracle from 45.155.205.233 port 60002 ssh2
+Apr  9 09:16:29 ubuntu sshd[1304]: Failed password for invalid user oracle from 45.155.205.233 port 60003 ssh2
