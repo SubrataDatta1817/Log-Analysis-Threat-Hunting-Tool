@@ -43,7 +43,7 @@ Logs → Parser → Data Processing → Detection Engine → Alerts → Dashboar
 ##  System Architecture
 
 <p align="center">
-  <img src="./images/architecture_diagram.png" width="800"/>
+  <img src="./sample_logs/architecture_diagram.png" width="800"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Logs → Parser → Data Processing → Detection Engine → Alerts → Dashboar
 ##  Dashboard Overview
 
 <p align="center">
-  <img src="./images/dashboard_overview.png" width="850"/>
+  <img src="./sample_logs/dashboard_overview.png" width="850"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Logs → Parser → Data Processing → Detection Engine → Alerts → Dashboar
 ##  Alerts & Detection
 
 <p align="center">
-  <img src="./images/alerts_panel.png" width="850"/>
+  <img src="./sample_logs/alerts_panel.png" width="850"/>
 </p>
 
 ---
@@ -78,12 +78,12 @@ Logs → Parser → Data Processing → Detection Engine → Alerts → Dashboar
 ##  Analytics & Insights
 
 <p align="center">
-  <img src="./images/analytics_view.png" width="850"/>
+  <img src="./sample_logs/analytics_view.png" width="850"/>
 </p>
 
 ---
 
-## ⚡ How It Works
+##  How It Works
 
 ### 1 Parsing Layer
 
